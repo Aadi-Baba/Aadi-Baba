@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadi-Baba
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning mobile app development
+- 👀 I’m interested in web development (MERN stack)
+- 🌱 I’m currently learning backend development with Node.js
 - 📫 How to reach me : email : theaadilbukhari@gmail.com
 
 <!---
